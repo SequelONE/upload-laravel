@@ -1,8 +1,7 @@
 {
   "name": "sequelone/upload-laravel",
-  "description": "Upload large files for Laravel 上传 大文件 laravel包",
+  "description": "Upload large files for Laravel",
   "keywords": [
-    "大文件",
     "large",
     "upload",
     "laravel"
@@ -10,10 +9,10 @@
   "license": "GPL-2.0",
   "authors": [
     {
-      "name": "Payne Hu",
-      "email": "huyang110yahoo@gmail.com",
-      "homepage": "http://www.2ndrenais.com",
-      "role": "Manager"
+      "name": "Andrej Kopp",
+      "email": "admin@sequel.one",
+      "homepage": "https://sequel.one",
+      "role": "Developer"
     }
   ],
   "require": {
